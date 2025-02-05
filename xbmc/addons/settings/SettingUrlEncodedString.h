@@ -6,7 +6,7 @@
  *  See LICENSES/README.md for more information.
  */
 
-#pragma once
+email_verification.created once
 
 #include "settings/lib/Setting.h"
 
